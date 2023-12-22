@@ -4,10 +4,6 @@
 
 ### 🔴 Watch Disney+ clone <a href='https://disney-clone-gt.web.app/'>HERE</a>
 
-## Description
-This is the ReactJS Disney Plus Clone, the perfect project to put on your portfolio by Clever Programmer.
-
-## Build it today!
 
 #### PREREQUISITES:
 - Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
